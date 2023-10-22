@@ -1,0 +1,14 @@
+Tuần 1-2
+Thu thập và làm sạch cơ sở dữ liệu bán hàng.
+Xác định các số liệu chính cần theo dõi trong bảng thông tin phân tích.
+Thiết kế bố cục của bảng điều khiển phân tích.
+Bắt đầu phát triển bảng thông tin phân tích.
+Xác định các mục tiêu cụ thể và các chỉ số hiệu suất chính (KPI) mà muốn đo lường bằng Analytical Dashboard
+Tuần 3-4
+ 
+Tạo Trang tổng quan
+Hoàn tất việc phát triển cho bảng thông tin phân tích.
+Thiết kế và tạo Overview Dashboard  cung cấp sơ bộ về tình hình kinh doanh của công ty.
+Tích hợp Analytical Dashboard với Sales Database.
+Kiểm tra Analytical Dashboard và thực hiện các điều chỉnh cần thiết.
+Triển khai Analytical Dashboard vào sản xuất.
